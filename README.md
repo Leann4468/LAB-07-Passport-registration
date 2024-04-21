@@ -23,22 +23,22 @@ Star UML
 ### UML DIAGRAMS:
 
 ## USECASE DIAGRAM :
-![Screenshot 2024-04-20 115703](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/52f992f3-f1f9-48a8-a42f-67e78097ae94)
+![image](https://github.com/Leann4468/LAB-07-Passport-registration/assets/121165979/5ee06ff7-7be6-4dd3-be2c-45f7fa52a17a)
 
 ## CLASS DIAGRAM :
-![Screenshot 2024-04-20 115723](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/ff2b1073-cfcb-4f48-a0de-875c272fb7f7)
+![image](https://github.com/Leann4468/LAB-07-Passport-registration/assets/121165979/042a7737-f816-4a01-b6df-246f7a61579b)
 
 ## SEQUENCE DIAGRAM :
-![Screenshot 2024-04-20 115836](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/eef075af-639f-425e-96ae-ae524f93ea6a)
+![image](https://github.com/Leann4468/LAB-07-Passport-registration/assets/121165979/de0f7f18-a012-4a5d-9a54-dce0a58dba2f)
 
 ## ACTIVITY DIAGRAM :
-![Screenshot 2024-04-20 120120](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/8ca94183-01b0-4d82-b80c-b60e72bce134)
+![image](https://github.com/Leann4468/LAB-07-Passport-registration/assets/121165979/2d657019-415b-4975-9c0b-0fdc169c2a53)
 
 ## COMMUNICATION DIAGRAM :
-![Screenshot 2024-04-20 115818](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/715255af-0ebc-4d5d-b3cd-aa8fe5d7badd)
+![image](https://github.com/Leann4468/LAB-07-Passport-registration/assets/121165979/bdf6bb38-f974-4c9c-9639-8ac4a30fdbc5)
 
 ## PACKAGE DIAGRAM :
-![Screenshot 2024-04-20 115749](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/63d5c646-38cd-4b36-9f20-d917bf7a9159)
+![image](https://github.com/Leann4468/LAB-07-Passport-registration/assets/121165979/6eeb721c-bf66-4895-b0df-d798a82f738f)
 
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
